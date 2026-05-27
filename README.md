@@ -43,11 +43,10 @@ reach_me: pcmeena511@gmail.com
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pcmhacker-piro&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Pcmhacker-piro&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10" height="180" />
   <img src="https://streak-stats.demolab.com?user=Pcmhacker-piro&theme=radical&hide_border=true&border_radius=10" height="180" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcmhacker-piro&layout=compact&theme=radical&hide_border=true&border_radius=10" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pcmhacker-piro&show_icons=true&theme=radical&show=reviews&hide=stars,contribs&hide_border=true&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pcmhacker-piro&layout=compact&theme=radical&hide_border=true&border_radius=10" height="150" />
 </div>
 
 ---
@@ -61,18 +60,14 @@ reach_me: pcmeena511@gmail.com
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Pcmhacker-piro?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Pcmhacker-piro&limit=5&theme=radical&hide_border=true&border_radius=10" />
-  </a>
-</div>
+
 
 ---
 
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pcmhacker-piro&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=Pcmhacker-piro&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
