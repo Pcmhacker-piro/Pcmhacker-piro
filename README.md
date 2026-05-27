@@ -56,8 +56,6 @@ reach_me: pcmeena511@gmail.com
 
 <div align="center">
   <img src="https://img.shields.io/badge/Total%20PRs-19-2ea44f?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Merged-11-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Open-8-yellow?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Repos-43-brightgreen?style=for-the-badge&logo=github" />
 </div>
 
