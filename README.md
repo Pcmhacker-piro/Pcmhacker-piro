@@ -21,6 +21,7 @@ fields_of_interest:
   - Open Source
   - System Design
   - DevOps
+  - Competitive Programming
 currently_learning:
   - MERN Stack
   - TypeScript
