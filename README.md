@@ -17,11 +17,11 @@ name: Prakash Meena
 located_in: Jaipur, Rajasthan
 education: B.Tech Computer Science @ IIIT Dharwad
 fields_of_interest:
+  - Competitive Programming
   - Web Development
   - Open Source
   - System Design
   - DevOps
-  - Competitive Programming
 currently_learning:
   - MERN Stack
   - TypeScript
