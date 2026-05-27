@@ -1,106 +1,84 @@
-<h1 align="center">👋 Hi there, I'm Puja Kumari</h1>
+<h1 align="center">👋 Hi, I'm Prakash Meena</h1>
 
 <p align="center">
-  🌟 Aspiring MERN Stack Developer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 FSD Intern @ Cognifyz | Tech-Contributor(GSSoC)-2025 🏅 | <br>         
-  💡 Passionate about Web Development, Scalable Systems, and Continuous Learning
+  🚀 Tech Enthusiast | Aspiring Entrepreneur | 💻 Developer | 🎓 B.Tech CSE @ IIIT Dharwad
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm a second-year Computer Science student with a strong  focus on **web development**, **backend systems**, and **data structures & algorithms**. My journey started with creative problem-solving and a passion for crafting beautiful, functional digital experiences.
+I'm a Computer Science student at IIIT Dharwad with a strong passion for **web development**, **open source**, and **building scalable systems**. I love solving real-world problems through code and contributing to impactful projects.
 
-- 🚀 Full-Stack Developer Intern @ **Cognifyz Technologies**
-- 🏅  Tech-Contributor @ **GssoC-2025**
-- 📚 Learning & building with **Node.js**, **Express**, **React**, **MongoDB**, and **SQL**
-- 🛠️ Actively solving **DSA problems in Java**
-- 🎨 Art & creativity lover – bringing an aesthetic eye to tech
-- 📧 Reach me at: pujakumari91221180@gmail.com
+- 🔭 Currently building full-stack applications & exploring DevOps
+- 🌱 Deep-diving into **MERN Stack**, **TypeScript**, **Python**, and **System Design**
+- 🏅 Open Source Contributor @ **GSSoC'26** — contributed 10+ PRs across multiple projects
+- 💬 Ask me about **React**, **Node.js**, **Python**, **JavaScript**
+- 📍 Based in **Jaipur, Rajasthan**
+- 📧 Reach me at: pcmeena511@gmail.com
 
 ---
 
 ### ⚒️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,typescript,tailwind,git,github,vscode,vercel" />
 </p>
 
 ---
 
 ### 💼 Experience
 
-- 🔹 **Tech-Contributor** – Gssoc'25 (July 2025 Present)
-- 🔹 **Full Stack Developer Intern** – Cognifyz Technologies *(June 2025 - July 2025)*
-- 🔹 **Web Development Intern** – InternPe *(June 2025 )*
-
----
-
-### 📜 Certifications & Achievements
-
-- 🧠 **DSA with Java – Apna College**
-- 🤖 Workshop on **Artificial Intelligence** & **Robotics**
-- 🖌️ 1st Position in **Painting Competition** – Artistic Touch to Tech!
-- 🏅 NCECCI-2025 Certification
-
----
-
-## 🎯 Current Goals
-📦 Build and deploy real-world full-stack applications
-
-🔗 Master API development and integration (REST, GraphQL, authentication, error handling)
-
-🗄️ Design and manage databases efficiently:(MySQL,MongoDB)
-
-🧩 Participate in hackathons & contribute to open source projects
-
-💻 Solve 200+ coding challenges on LeetCode/GFG to strengthen problem-solving and data structures & algorithms skills
-
-💼 Land an impactful internship or MNC opportunity with a focus on software engineering roles
+- 🔹 **Open Source Contributor** – GSSoC'26 (May 2026 - Present)
+- 🔹 **Full Stack Developer** – Building real-world MERN projects
+- 🔹 **Tech Enthusiast** – Constantly learning & building
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PJCODEX&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PJCODEX&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pcmhacker-piro&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pcmhacker-piro&theme=radical" width="47%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJCODEX&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcmhacker-piro&layout=compact&theme=radical" width="47%" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies
 
-![Puja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PJCODEX&theme=radical)
-
-
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pcmhacker-piro&theme=radical)
 
 ---
+
 ### Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PJCODEX&theme=github-compact&area=true&bg_color=ffffff&color=000000)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pcmhacker-piro&theme=github-compact&area=true&bg_color=ffffff&color=000000)
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Quick Stats
 
-![Snake animation](https://github.com/PJCODEX/PJCODEX/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-43-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRs-19-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Followers-0-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Following-7-blueviolet?style=for-the-badge" />
+</p>
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/puja-kumari01b">
+  <a href="https://www.linkedin.com/in/prakash-meena-a46906324/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:pujakumari91221180@gmail.com">
+  <a href="mailto:pcmeena511@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/PJCODEX">
+  <a href="https://github.com/Pcmhacker-piro">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
   </a>
 </p>
@@ -108,7 +86,7 @@ I'm a second-year Computer Science student with a strong  focus on **web develop
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PJCODEX&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Pcmhacker-piro&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>“Code with purpose. Build with passion.”</i></p>
+<p align="center"><i>"Code with purpose. Build with passion."</i></p>
