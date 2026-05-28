@@ -106,5 +106,7 @@ reach_me: pcmeena511@gmail.com
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <i>"When something is important enough, you do it even if the odds are not in your favor."</i>
+  <br/>
+  <sub>— Elon Musk</sub>
 </div>
