@@ -106,7 +106,7 @@ reach_me: pcmeena511@gmail.com
 ---
 
 <div align="center">
-  <i style="font-size:18px;">"When something is important enough, you do it even if the odds are not in your favor."</i>
+  <i style="font-size:20px;">"When something is important enough, you do it even if the odds are not in your favor."</i>
   <br/>
-  <sub style="font-size:14px;">— Elon Musk</sub>
+  <sub style="font-size:15px;">— Elon Musk</sub>
 </div>
