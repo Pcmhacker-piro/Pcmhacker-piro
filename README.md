@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/From-Jaipur%2C_Rajasthan-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/College-IIIT_Dharwad-purple?style=flat-square" />
-  <img src="https://visitcount.itsvg.in/api?id=Pcmhacker-piro&label=Profile+Views&color=0e75b6&icon=0&pretty=true" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Pcmhacker-piro&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
