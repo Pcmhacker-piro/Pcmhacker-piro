@@ -27,7 +27,7 @@ currently_learning:
   - TypeScript
   - Python
   - System Design
-open_source: GSSoC'26 Contributor (10+ PRs)
+open_source: GSSoC'26 Contributor (40+ PRs)
 reach_me: pcmeena511@gmail.com
 ```
 
