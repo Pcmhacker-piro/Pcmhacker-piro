@@ -55,8 +55,8 @@ reach_me: pcmeena511@gmail.com
 ### 🔀 Pull Requests & Merges
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20PRs-19-2ea44f?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Repos-43-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%200PRs-19-2ea44f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Merges-100-brightgreen?style=for-the-badge&logo=github" />
 </div>
 
 <br/>
