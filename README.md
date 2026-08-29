@@ -63,26 +63,7 @@ reach_me: pcmeena511@gmail.com
 
 
 
----
 
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=Pcmhacker-piro&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pcmhacker-piro/Pcmhacker-piro/raw/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pcmhacker-piro/Pcmhacker-piro/raw/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/Pcmhacker-piro/Pcmhacker-piro/raw/output/dist/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 ### 🤝 Connect
 
