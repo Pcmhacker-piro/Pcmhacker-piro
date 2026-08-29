@@ -73,11 +73,6 @@ reach_me: pcmeena511@gmail.com
 
 ---
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pcmhacker-piro&theme=radical&hide_border=true&radius=10&area=true&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff" width="100%" />
-
----
 
 ### 🐍 Contribution Snake
 
